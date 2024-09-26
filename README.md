@@ -26,3 +26,8 @@
 ![image](https://github.com/user-attachments/assets/8b01d9a9-aab8-47e7-9db3-f20b3b8fd721)
 
 -auto-approve ключ запускает код без  plan, соответственно без провреки на ошибки. применяется в автоматизированных средах, таких как конвейеры CI/CD
+
+
+### Задание 1.7
+
+![image](https://github.com/user-attachments/assets/ad067b40-9c63-49be-a22c-3c4998a48645)
