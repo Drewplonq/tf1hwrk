@@ -31,3 +31,12 @@
 ### Задание 1.7
 
 ![image](https://github.com/user-attachments/assets/ad067b40-9c63-49be-a22c-3c4998a48645)
+
+### Задание 1.7
+
+keep_locally = true
+
+![image](https://github.com/user-attachments/assets/bc1eac77-9dd5-48d1-a019-852e9bdaa50f)
+
+keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation. If this is false, it will delete the image from the docker local storage on destroy operation
+
