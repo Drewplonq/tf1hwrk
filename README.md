@@ -32,7 +32,7 @@
 
 ![image](https://github.com/user-attachments/assets/ad067b40-9c63-49be-a22c-3c4998a48645)
 
-### Задание 1.7
+### Задание 1.8
 
 keep_locally = true
 
